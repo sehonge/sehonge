@@ -2,6 +2,8 @@
 
 개인 블로그를 운영중입니당 ㅎ.ㅎ https://blog.naver.com/sehong1602
 
+<br/>
+
 2020-08 ~ 2020-12 [서강대학교 Big Data Processing LAB](http://bigdata.sogang.ac.kr/)
 
 #### Baekjoon Online Judge 프로필
