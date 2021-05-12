@@ -6,7 +6,7 @@
 
 <br/><br/>
 
-2020-08 ~ 2020-12 [서강대학교 Big Data Processing LAB](http://bigdata.sogang.ac.kr/) 에서 학부연구생으로 블록체인에 저장된 지리공간 데이터의 특성을 활용한 데이터 관리 및 검색(질의) 기법 프로젝트에 참여
+2020-08 ~ 2020-12 [서강대학교 Big Data Processing LAB](http://bigdata.sogang.ac.kr/) 에서 학부연구생으로 활동
 
 <br/>
 
