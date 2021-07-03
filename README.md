@@ -13,5 +13,4 @@
 #### Baekjoon Online Judge 프로필
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=sehong1602)
 
-![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/sehong1602)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehong1602)](https://solved.ac/sehong1602)
