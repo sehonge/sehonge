@@ -11,7 +11,10 @@
 
 <br/>
 
-[2021 채용연계형 인턴십 수료증_pong.se.pdf](https://github.com/sehonge/sehonge/files/8148787/2021._pong.se.pdf)
+![image](https://user-images.githubusercontent.com/46814964/155886286-e2b1e172-a8d0-4dbb-8fd0-c48573e49df6.png)
+
+<br/>
+
 
 #### Baekjoon Online Judge 프로필
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehong1602)](https://solved.ac/sehong1602)
