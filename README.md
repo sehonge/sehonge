@@ -6,8 +6,8 @@
 
 <br/><br/>
 
-2020-08 ~ 2020-12 [서강대학교 Big Data Processing LAB](http://bigdata.sogang.ac.kr/) 에서 학부연구생으로 활동 <br/>
-2021-08 ~ 2022-02 Kakaopay 비즈니스서비스파티에서 6개월동안 인턴으로 활동
+- 2020-08 ~ 2020-12 [서강대학교 Big Data Processing LAB](http://bigdata.sogang.ac.kr/) 에서 학부연구생으로 활동
+- 2021-08 ~ 2022-02 Kakaopay 비즈니스서비스파티에서 6개월동안 인턴으로 활동
 
 <br/>
 
