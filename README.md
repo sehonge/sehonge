@@ -9,10 +9,9 @@
 
 - 2020-08 ~ 2020-12 [서강대학교 Big Data Processing LAB](http://bigdata.sogang.ac.kr/) 학부연구생
 - 2021-08 ~ 2022-02 Kakaopay 비즈니스서비스파티 인턴(BE 개발)
+- 2022-08 ~ 쏘카 Backend Engineer
 
 <br/>
-
-![image](https://user-images.githubusercontent.com/46814964/155886286-e2b1e172-a8d0-4dbb-8fd0-c48573e49df6.png)
 
 <br/>
 
